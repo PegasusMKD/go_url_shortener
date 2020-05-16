@@ -1,0 +1,8 @@
+{
+  "DatabasePort": "5432",
+  "DatabaseHost": "localhost",
+  "DatabaseUser": "pazzio_go",
+  "DatabaseName": "urlshortener",
+  "DatabasePassword": "pazzio_go",
+  "SSLMode": "disable"
+}
